@@ -25,6 +25,10 @@ def read_temp():
 
 if __name__ == "__main__":
     print("Temperature:", read_temp())
+
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/37944562-b9b7-41aa-b66e-4cfae66fea38" />
+
+
 ```
 
 and run it in a terminal:
